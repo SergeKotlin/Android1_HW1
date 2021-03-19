@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Android1_HW1</string>
+    <string name="textView">Командированные:</string>
+    <string name="addSeconded">Прикомандировать</string>
+    <string name="switchText">Собрать совещание по возвращению</string>
+    <string name="checkOption1">командировочные на дорогой отель</string>
+    <string name="checkOption2">командировочные на личный авто</string>
+    <string name="toggleButtonON">Командировка активна</string>
+    <string name="toggleButtonOFF">Командировка окончена</string>
+    <string name="hello">– Здаров, парни!</string>
+    <string name="returnHello">– ваш ответ</string>
+    <string name="setName">представьтесь</string>
+    <string name="phone">ваш телефон</string>
+    <string name="age">возраст</string>
+    <string name="secretText">№ вашей карты</string>
+    <string name="email">и email</string>
+</resources>
