@@ -58,5 +58,14 @@
         android:textOn="@string/toggleButtonON"
         android:textOff="@string/toggleButtonOFF" />
 
+    <Button
+        android:id="@+id/switchLayout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/padding_left"
+        android:text="@string/layoutButtonHint"
+        android:textSize="12sp"
+        android:onClick="switchLayout" />
+
 
 </LinearLayout>

@@ -14,4 +14,5 @@
     <string name="age">возраст</string>
     <string name="secretText">№ вашей карты</string>
     <string name="email">и email</string>
+    <string name="layoutButtonHint">2-ой макет</string>
 </resources>
